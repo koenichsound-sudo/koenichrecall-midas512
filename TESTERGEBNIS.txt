@@ -1,0 +1,2 @@
+PASS: parameter ranges, logarithmic mappings, 15-value recall, malformed-state rejection, GUI/host synchronization, concentric hit areas and independence, float/double bit-exact audio (1/2/8/64 channels, 44.1/48/96 kHz, IN on/off).
+PASS: compiled ARM64 VST3 scan, two instances, state round-trip, audio passthrough and native editor creation.
